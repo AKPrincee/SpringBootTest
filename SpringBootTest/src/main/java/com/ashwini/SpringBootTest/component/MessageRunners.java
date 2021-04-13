@@ -8,7 +8,8 @@ public class MessageRunners implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("-------- SpringBootTest Application -------");
+		System.out.println("-------- SpringBootTestApplication -------");
+		System.out.println("--------Modified SpringBootTestApplication -------");
 	}
 
 }
